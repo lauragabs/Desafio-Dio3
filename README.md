@@ -32,7 +32,6 @@ O intuito deste projeto é melhorar minhas habilidades em HTML e CSS, explorando
 ## Observações
 
 - As páginas foram criadas para praticar e aplicar conceitos básicos de HTML e CSS.
-- O layout é responsivo e se adapta a diferentes tamanhos de tela.
 
 ## Contato
 
