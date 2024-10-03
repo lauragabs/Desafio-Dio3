@@ -1,4 +1,4 @@
-# Site de Séries de TV
+# Site sobre Séries de TV
 
 ## Descrição
 
